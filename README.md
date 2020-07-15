@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm Andrew
+
+### Books on My Desk
+
+[Explore It!](https://pragprog.com/titles/ehxta/)
+
+[Lessons Learned in Software Testing](https://www.goodreads.com/book/show/599997.Lessons_Learned_in_Software_Testing) 
+
+### Spare time projects I'm working on
+
+- An air quality monitor using a Raspberry Pi and a particle matter sensor (Python)
+- Experimenting with the SDK for the [Anki Cozmo robot](https://developer.anki.com/blog/learn/tutorial/getting-started-with-the-cozmo-sdk/index.html) (Python)
+
+### :mailbox_with_mail: How to reach me
+
+[LinkedIn](https://www.linkedin.com/in/andrewjanuary/)
 
 <!--
 **AndrewJanuary/AndrewJanuary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
