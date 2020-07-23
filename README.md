@@ -2,26 +2,26 @@
 
 I'm Andrew
 
-### :books: Books on my desk
+### Books on my desk :books:
 
-#### :mag: Software Testing 
+#### Software Testing :mag:
 
 [Explore It!](https://pragprog.com/titles/ehxta/)
 
 [Lessons Learned in Software Testing](https://www.goodreads.com/book/show/599997.Lessons_Learned_in_Software_Testing)
 
-#### :cactus: Indoor Plants
+#### Indoor Plants :cactus:
 
 [Plant Society](https://www.goodreads.com/book/show/35960194-plant-society) 
 
 [How to raise a plant](https://www.goodreads.com/book/show/38743224-how-to-raise-a-plant-and-make-it-love-you-back)
 
-### :hammer: Spare time projects I'm working on
+### Spare time projects I'm working on :hammer: 
 
 - An air quality monitor using a Raspberry Pi and a particle matter sensor (Python)
 - Experimenting with the SDK for the [Anki Cozmo robot](https://developer.anki.com/blog/learn/tutorial/getting-started-with-the-cozmo-sdk/index.html) (Python)
 
-### :mailbox_with_mail: How to reach me
+### How to reach me :mailbox_with_mail: 
 
 [LinkedIn](https://www.linkedin.com/in/andrewjanuary/)
 
