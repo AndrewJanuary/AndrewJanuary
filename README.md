@@ -2,11 +2,19 @@
 
 I'm Andrew
 
-### :books: Books on My Desk
+### :books: Books on my desk
+
+#### :mag: Software Testing 
 
 [Explore It!](https://pragprog.com/titles/ehxta/)
 
-[Lessons Learned in Software Testing](https://www.goodreads.com/book/show/599997.Lessons_Learned_in_Software_Testing) 
+[Lessons Learned in Software Testing](https://www.goodreads.com/book/show/599997.Lessons_Learned_in_Software_Testing)
+
+#### :cactus: Indoor Plants
+
+[Plant Society](https://www.goodreads.com/book/show/35960194-plant-society) 
+
+[How to raise a plant](https://www.goodreads.com/book/show/38743224-how-to-raise-a-plant-and-make-it-love-you-back)
 
 ### :hammer: Spare time projects I'm working on
 
