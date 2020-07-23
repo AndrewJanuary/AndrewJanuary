@@ -8,6 +8,8 @@
 
 [Lessons Learned in Software Testing](https://www.goodreads.com/book/show/599997.Lessons_Learned_in_Software_Testing)
 
+[A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops)
+
 #### Indoor Plants :cactus:
 
 [Plant Society](https://www.goodreads.com/book/show/35960194-plant-society) 
