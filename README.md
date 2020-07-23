@@ -1,6 +1,4 @@
-### Hi there 👋 
-
-I'm Andrew
+### Hi there 👋  I'm Andrew
 
 ### Books on my desk :books:
 
