@@ -18,7 +18,7 @@
 
 ### Spare time projects I'm working on :hammer: 
 
-- An air quality monitor using a Raspberry Pi and a particle matter sensor (Python)
+- An [air quality monitor](https://github.com/AndrewJanuary/PM-Monitor) using a Raspberry Pi and a particle matter sensor (Python)
 - Experimenting with the SDK for the [Anki Cozmo robot](https://developer.anki.com/blog/learn/tutorial/getting-started-with-the-cozmo-sdk/index.html) (Python)
 - Collating [useful learning resources for testers](https://github.com/AndrewJanuary/Test-Engineering-Resources)
 
