@@ -27,7 +27,7 @@ Collating [useful learning resources for testers](https://github.com/AndrewJanua
 
 ### Articles, Blogs & Contributions (Things I've Written) :pencil:
 
-[An Experience Report on RST](https://teatimewithtesters.com/magazines/) - Tea Time with Testers Magazine July 2021
+[An Experience Report on RST](https://teatimewithtesters.com/an-experience-report-on-r-s-t/) - Tea Time with Testers Magazine July 2021
 
 [Navigating the World as a Context-Driven Tester](https://github.com/associationforsoftwaretesting/navigating/blob/main/navigatingcdt.md) - Association for Software Testing
 
