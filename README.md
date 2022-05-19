@@ -35,6 +35,8 @@ Collating [useful learning resources for testers](https://github.com/AndrewJanua
 
 [LinkedIn](https://www.linkedin.com/in/andrewjanuary/)
 
+[Twitter](https://twitter.com/andrewjanuary)
+
 <!--
 **AndrewJanuary/AndrewJanuary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
