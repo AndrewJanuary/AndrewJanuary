@@ -1,5 +1,28 @@
 ### Hi there 👋  I'm Andrew
 
+
+
+### Articles, Blogs & Contributions (Things I've Written) :pencil:
+
+[An Experience Report on RST](https://teatimewithtesters.com/an-experience-report-on-r-s-t/) - Tea Time with Testers Magazine July 2021
+
+[Navigating the World as a Context-Driven Tester](https://github.com/associationforsoftwaretesting/navigating/blob/main/navigatingcdt.md) - Association for Software Testing
+
+### Spare time projects I'm working on :hammer: 
+
+An [air quality monitor](https://github.com/AndrewJanuary/PM-Monitor) using a Raspberry Pi and a particle matter sensor (Python)
+
+Experimenting with the SDK for the [Anki Cozmo robot](https://developer.anki.com/blog/learn/tutorial/getting-started-with-the-cozmo-sdk/index.html) (Python)
+
+Collating [useful learning resources for testers](https://github.com/AndrewJanuary/Test-Engineering-Resources)
+
+
+### How to reach me :mailbox_with_mail: 
+
+[LinkedIn](https://www.linkedin.com/in/andrewjanuary/)
+
+[Twitter](https://twitter.com/andrewjanuary)
+
 ### Books on my desk :books:
 
 #### Software Testing :mag:
@@ -17,25 +40,8 @@
 [How to raise a plant](https://www.goodreads.com/book/show/38743224-how-to-raise-a-plant-and-make-it-love-you-back)
 
 
-### Spare time projects I'm working on :hammer: 
 
-An [air quality monitor](https://github.com/AndrewJanuary/PM-Monitor) using a Raspberry Pi and a particle matter sensor (Python)
 
-Experimenting with the SDK for the [Anki Cozmo robot](https://developer.anki.com/blog/learn/tutorial/getting-started-with-the-cozmo-sdk/index.html) (Python)
-
-Collating [useful learning resources for testers](https://github.com/AndrewJanuary/Test-Engineering-Resources)
-
-### Articles, Blogs & Contributions (Things I've Written) :pencil:
-
-[An Experience Report on RST](https://teatimewithtesters.com/an-experience-report-on-r-s-t/) - Tea Time with Testers Magazine July 2021
-
-[Navigating the World as a Context-Driven Tester](https://github.com/associationforsoftwaretesting/navigating/blob/main/navigatingcdt.md) - Association for Software Testing
-
-### How to reach me :mailbox_with_mail: 
-
-[LinkedIn](https://www.linkedin.com/in/andrewjanuary/)
-
-[Twitter](https://twitter.com/andrewjanuary)
 
 <!--
 **AndrewJanuary/AndrewJanuary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
