@@ -8,6 +8,9 @@
 
 [Navigating the World as a Context-Driven Tester](https://github.com/associationforsoftwaretesting/navigating/blob/main/navigatingcdt.md) - Association for Software Testing
 
+[Test Automation Coding Standards](https://sqa.stackexchange.com/questions/50120/are-there-specific-coding-guidelines-for-test-automation/50152#50152) - SQA StackExchange
+
+
 ### Spare time projects I'm working on :hammer: 
 
 An [air quality monitor](https://github.com/AndrewJanuary/PM-Monitor) using a Raspberry Pi and a particle matter sensor (Python)
@@ -22,6 +25,7 @@ Collating [useful learning resources for testers](https://github.com/AndrewJanua
 [LinkedIn](https://www.linkedin.com/in/andrewjanuary/)
 
 [Twitter](https://twitter.com/andrewjanuary)
+
 
 ### Books on my desk :books:
 
