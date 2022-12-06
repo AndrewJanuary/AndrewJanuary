@@ -27,7 +27,7 @@ Collating [useful learning resources for testers](https://github.com/AndrewJanua
 
 [Twitter](https://twitter.com/andrewjanuary)
 
-[SQA Stackexchange](https://sqa.stackexchange.com/users/53327/andrew-january)
+[SQA StackExchange](https://sqa.stackexchange.com/users/53327/andrew-january)
 
 
 ### Books on my desk :books:
