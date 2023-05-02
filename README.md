@@ -21,15 +21,6 @@ Experimenting with the SDK for the [Anki Cozmo robot](https://developer.anki.com
 Collating [useful learning resources for testers](https://github.com/AndrewJanuary/Test-Engineering-Resources)
 
 
-### How to reach me :mailbox_with_mail: 
-
-[LinkedIn](https://www.linkedin.com/in/andrewjanuary/)
-
-[Twitter](https://twitter.com/andrewjanuary)
-
-[SQA StackExchange](https://sqa.stackexchange.com/users/53327/andrew-january)
-
-
 ### Books on my desk :books:
 
 #### Software Testing :mag:
