@@ -4,6 +4,8 @@
 
 ### Articles, Blogs & Contributions (Things I've Written) :pencil:
 
+[Risk Analysis and Pre-Mortems](https://scottlogic.github.io/practitioners-guides/pages/risk-analysis-and-pre-mortems/) - Scott Logic Practitioners Guides
+
 [Demo of pact-message-ruby ](https://docs.pact.io/community_repos) - Pact Community Repos
 
 [Navigating the World as a Context-Driven Tester](https://github.com/associationforsoftwaretesting/navigating/blob/main/navigatingcdt.md) - Association for Software Testing
