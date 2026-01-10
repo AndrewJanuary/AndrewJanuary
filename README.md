@@ -1,5 +1,8 @@
 ### Hi there 👋  I'm Andrew
 
+I help cross-functional  teams deliver high quality and high value products. I help teams bridge the gap between 'it works on my machine...' and 'our customers are very happy!' 
+
+I’m an advocate of the Context-Driven approach of software testing and love helping teams build people-first cultures where quality is a shared mindset, not a final hurdle.
 
 
 ### Articles, Blogs & Contributions (Things I've Written) :pencil:
