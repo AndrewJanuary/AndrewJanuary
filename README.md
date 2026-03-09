@@ -1,11 +1,16 @@
-### Hi there 👋  I'm Andrew
+# Hi there 👋  I'm Andrew
 
 I help cross-functional  teams deliver high quality and high value products. I help teams bridge the gap between 'it works on my machine...' and 'our customers are very happy!' 
 
 I’m an advocate of the Context-Driven approach of software testing and love helping teams build people-first cultures where quality is a shared mindset, not a final hurdle.
 
+## Certifications 🏅 🎓
+- AWS Certified Machine Learning Engineer (MLA-C01)
+- AWS Certified AI Practitioner (AIF-C01)
+- AWS Certified Cloud Practitioner (CLF-C02)
 
-### Articles, Blogs & Contributions (Things I've Written) :pencil:
+
+## Articles, Blogs & Contributions (Things I've Written) :pencil:
 
 [Risk Analysis and Pre-Mortems](https://scottlogic.github.io/practitioners-guides/pages/risk-analysis-and-pre-mortems/) - Scott Logic Practitioners Guides
 
@@ -17,7 +22,7 @@ I’m an advocate of the Context-Driven approach of software testing and love he
 
 [An Experience Report on RST](https://teatimewithtesters.com/an-experience-report-on-r-s-t/) - Tea Time with Testers Magazine July 2021
 
-### Spare time projects I'm working on :hammer: 
+## Spare time projects I'm working on :hammer: 
 
 An [air quality monitor](https://github.com/AndrewJanuary/PM-Monitor) using a Raspberry Pi and a particle matter sensor (Python)
 
@@ -26,22 +31,9 @@ Experimenting with the SDK for the [Anki Cozmo robot](https://developer.anki.com
 Collating [useful learning resources for testers](https://github.com/AndrewJanuary/Test-Engineering-Resources)
 
 
-### Books on my desk :books:
+## What I'm reading 📚
 
-#### Software Testing :mag:
-
-[Explore It!](https://pragprog.com/titles/ehxta/)
-
-[Lessons Learned in Software Testing](https://www.goodreads.com/book/show/599997.Lessons_Learned_in_Software_Testing)
-
-[A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops)
-
-#### Indoor Plants :cactus:
-
-[Plant Society](https://www.goodreads.com/book/show/35960194-plant-society) 
-
-[How to raise a plant](https://www.goodreads.com/book/show/38743224-how-to-raise-a-plant-and-make-it-love-you-back)
-
+Take a look at [my reading list](https://github.com/AndrewJanuary/AndrewJanuary/blob/master/readingList.md) for rough idea of what I'm currently reading.
 
 
 
