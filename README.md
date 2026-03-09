@@ -24,13 +24,15 @@ I’m an advocate of the Context-Driven approach of software testing and love he
 
 [An Experience Report on RST](https://teatimewithtesters.com/an-experience-report-on-r-s-t/) - Tea Time with Testers Magazine July 2021
 
-## Spare time projects I'm working on :hammer: 
+## Projects & Expeditions :hammer:
 
 An [air quality monitor](https://github.com/AndrewJanuary/PM-Monitor) using a Raspberry Pi and a particle matter sensor (Python)
 
+Collating [useful learning resources for testers](https://github.com/AndrewJanuary/Test-Engineering-Resources)
+
+
 Experimenting with the SDK for the [Anki Cozmo robot](https://developer.anki.com/blog/learn/tutorial/getting-started-with-the-cozmo-sdk/index.html) (Python)
 
-Collating [useful learning resources for testers](https://github.com/AndrewJanuary/Test-Engineering-Resources)
 
 
 ## What I'm reading 📚
