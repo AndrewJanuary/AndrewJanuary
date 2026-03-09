@@ -14,7 +14,7 @@ I’m an advocate of the Context-Driven approach of software testing and love he
 
 ## Articles, Blogs & Contributions (Things I've Written) :pencil:
 
-[Risk Analysis and Pre-Mortems](https://scottlogic.github.io/practitioners-guides/pages/risk-analysis-and-pre-mortems/) - Scott Logic Practitioners Guides
+[Risk Analysis and Pre-Mortems](https://scottlogic.github.io/practitioners-guides/pages/risk-analysis-and-pre-mortems/) - Scott Logic Practitioners Guides (2024) - Introduction to techniques and guidance on implementing them in cross-functional teams.
 
 [Demo of pact-message-ruby ](https://docs.pact.io/community_repos) - Pact Community Repos
 
@@ -22,7 +22,8 @@ I’m an advocate of the Context-Driven approach of software testing and love he
 
 [Test Automation Coding Standards](https://sqa.stackexchange.com/questions/50120/are-there-specific-coding-guidelines-for-test-automation/50152#50152) - SQA StackExchange
 
-[An Experience Report on RST](https://teatimewithtesters.com/an-experience-report-on-r-s-t/) - Tea Time with Testers Magazine July 2021
+[An Experience Report on RST](https://teatimewithtesters.com/an-experience-report-on-r-s-t/) - Tea Time with Testers Magazine (2021) — A practitioner's account of adopting Rapid Software Testing methodology across engineering teams.
+
 
 ## Projects & Expeditions :hammer:
 
