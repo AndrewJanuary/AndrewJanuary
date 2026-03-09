@@ -8,6 +8,8 @@ I’m an advocate of the Context-Driven approach of software testing and love he
 - AWS Certified Machine Learning Engineer (MLA-C01)
 - AWS Certified AI Practitioner (AIF-C01)
 - AWS Certified Cloud Practitioner (CLF-C02)
+- Google AI Essentials V1
+- The Linux Foundation Green Software for Practitioners (LFC131)
 
 
 ## Articles, Blogs & Contributions (Things I've Written) :pencil:
